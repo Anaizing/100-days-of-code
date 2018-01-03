@@ -1,29 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: January 03, 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Formulated a plan for what I will get out of this challenge
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Ive separated my plan into three main areas; 
 
-**Link to work:** [Calculator App](http://www.example.com)
+1. My blog- i not only need to build this but i aim to document my progress daily, and it will be the focus for my personal study on top of what i will learn as i work on the other two areas. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+2. My Progressive Web App- This is my passion project, i've wanted to learn more about PWA's and how to build them from scratch for about a year now and I have an idea for a project that has not yet been done in Australia. I think this will be a really tough but fun project. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+3. My Portfolio, I plan on building a fun/creative/interactive portfolio that showcases my outgoing personality as well as my skill set (that I aim to aquire by the end of this).
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+There are also... 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Various toutorials I will complete and document throughout the 100 days, (eg the Kyle S/FrontEndMasters collection)
 
+books I will read and 
 
-### Day 1: June 27, Monday
+languages/frameworks I will learn to use (React, Node, Redux)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [My website, anaizing.design](https://anaizing.design)

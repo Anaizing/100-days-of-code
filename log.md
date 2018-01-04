@@ -30,5 +30,8 @@ Needs a bit of love in the design side still, but Im pretty happy with its funct
 Not bad for day 1
 
 **Thoughts:** Needs a bit of love in the design side still, but Im pretty happy with its functionality. I ran into a bit of trouble with npm so i switched to yarn and that worked a treat. 
+
 Not bad for day 1
+
+
 ![Screenshot](blog-react.png)

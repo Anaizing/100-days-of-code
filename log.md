@@ -21,3 +21,14 @@ books I will read and
 languages/frameworks I will learn to use (React, Node, Redux)
 
 **Link to work:** [My website, anaizing.design](https://anaizing.design)
+
+
+### Day 1: January 04, 2018 
+
+**Today's Progress**: Built my first react/graphQL app with a sprinkle of Gatsby to get it all up and running fairly quickly. A responsive Blog app.
+Needs a bit of love in the design side still, but Im pretty happy with its functionality.
+Not bad for day 1
+
+**Thoughts:** Needs a bit of love in the design side still, but Im pretty happy with its functionality. I ran into a bit of trouble with npm so i switched to yarn and that worked a treat. 
+Not bad for day 1
+![Screenshot](blog-react.png)

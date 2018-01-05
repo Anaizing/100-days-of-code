@@ -35,3 +35,9 @@ Not bad for day 1
 
 
 ![Screenshot](blog-react.png)
+
+### Day 2: January 05, 2018 
+
+**Today's Progress**: Broke the app I made yesterday, couldnt fix it, started it again from scratch... aka no real progress.
+
+**Thoughts:** Must learn react properly so i can fix bugs

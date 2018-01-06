@@ -41,3 +41,10 @@ Not bad for day 1
 **Today's Progress**: Broke the app I made yesterday, couldnt fix it, started it again from scratch... aka no real progress.
 
 **Thoughts:** Must learn react properly so i can fix bugs
+
+
+### Day 3: January 06, 2018 
+
+**Today's Progress**: Fixed the css on my blog app, added a couple of entries to the md files, found a really nice nav svg to put on my app still havent figuered out how to get it on there
+
+**Thoughts:** its amazing how many libraries and code goes into such a basic app. At least it works as expected.

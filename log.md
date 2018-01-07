@@ -58,4 +58,4 @@ Not bad for day 1
 
 **Thoughts:** daily blogging is very time consuming but my blog app is looking Niiiiice. Think i should build a flip card app to study.
 ![Screenshot](day1.png)
-![Screenshot](day2.png)
+![Screenshot](day2also.png)

@@ -51,3 +51,11 @@ Not bad for day 1
 
 ![Screenshot](blog1.png)
 ![Screenshot](blog2.png)
+
+### Day 4: January 07, 2018 
+
+**Today's Progress**: Worked on my blog posts, and on iterator functions and on mutator functions
+
+**Thoughts:** daily blogging is very time consuming but my blog app is looking Niiiiice. Think i should build a flip card app to study.
+![Screenshot](day1.png)
+![Screenshot](day2.png)

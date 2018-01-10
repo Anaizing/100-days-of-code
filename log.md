@@ -59,3 +59,21 @@ Not bad for day 1
 **Thoughts:** daily blogging is very time consuming but my blog app is looking Niiiiice. Think i should build a flip card app to study.
 ![Screenshot](day1.png)
 ![Screenshot](day2also.png)
+
+### Day 5: January 08, 2018 
+
+**Today's Progress**: Worked on my blog posts, on coercion. Started a new react game
+
+**Thoughts:** I hope to have a fairly good understanding of React by next week so I can start building my PWA
+
+### Day 6: January 09, 2018 
+
+**Today's Progress**: Worked on my blog posts, on react terms. Started another react toutorial, on fundamentals.
+
+**Thoughts:** seems like everyone uses react slightly differently, I guess the holes in my understanding are a bit like swiss cheese atm, holes full of holes.
+
+### Day 7: January 10, 2018 
+
+**Today's Progress**: Started a new React toutorial/ an advanced one. Learned how Redux and Flux work.
+
+**Thoughts:** although it cleared up a lot of things it's slightly out of my comfort level.

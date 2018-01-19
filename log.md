@@ -77,3 +77,59 @@ Not bad for day 1
 **Today's Progress**: Started a new React toutorial/ an advanced one. Learned how Redux and Flux work.
 
 **Thoughts:** although it cleared up a lot of things it's slightly out of my comfort level.
+
+### Day 8: January 11, 2018 
+
+**Today's Progress**: Worked on my blog, built an article on styling react components. Worked through some more of Cory House's toutorials on react
+
+**Thoughts:** Loving it
+
+### Day 9: January 12, 2018 
+
+**Today's Progress**:Blogging away. Learned a lot about different things to consider when seting up your work environment for both JS and REACT
+
+**Thoughts:** All i know is I know nothing.
+
+### Day 10: January 13, 2018 
+
+**Today's Progress**: Started a new React toutorial/ an advanced one. Reausable React components
+
+**Thoughts:** I love react!
+
+### Day 11: January 14, 2018 
+
+**Today's Progress**: Blogging, fixed the styles in the blog, smashing through my react toutorials
+
+**Thoughts:** I wish there was more hours in the day
+
+### Day 12: January 15, 2018 
+
+**Today's Progress**: Started a new React toutorial/ an advanced one. Learned how Redux and Flux work.
+
+**Thoughts:** although it cleared up a lot of things it's slightly out of my comfort level.
+
+### Day 13: January 16, 2018 
+
+**Today's Progress**: Deep in the pluralSight website, ive almost watched all the react path tuts
+
+**Thoughts:** I love my dev cave
+
+### Day 14: January 17, 2018 
+
+**Today's Progress**: React toutorial
+
+**Thoughts:** Dev cave is my friend
+
+### Day 15: January 18, 2018 
+
+**Today's Progress**: Another react toutorial
+
+**Thoughts:** I have no friends haha, jk react is now my friend.
+
+### Day 16: January 19, 2018 
+
+![my blog skills](https://pbs.twimg.com/media/DT5FxaCVAAUVGMP.jpg)
+
+**Today's Progress**: Blog/ React/redux
+
+**Thoughts:** I only just realised its friday, its 10pm. Meganerd status activated.
